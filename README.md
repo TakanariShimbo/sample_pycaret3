@@ -12,12 +12,12 @@ Sample program of AutoML (pycaret3)
 # Setup
 ## Create Venv
 ```
-conda create --name python310_sample_pycaret python=3.10 -y
-conda activate python310_sample_pycaret
+conda create --name python310_sample_pycaret3 python=3.10 -y
+conda activate python310_sample_pycaret3
 pip install -r requirements.txt
 ```
 
 ## Enter Venv
 ```
-conda activate python310_sample_pycaret
+conda activate python310_sample_pycaret3
 ```
